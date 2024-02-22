@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movieholic/static/css/main.58e1373c.css",
+    "main.js": "/movieholic/static/js/main.80d16c6e.js",
+    "index.html": "/movieholic/index.html",
+    "static/media/search.svg": "/movieholic/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.58e1373c.css.map": "/movieholic/static/css/main.58e1373c.css.map",
+    "main.80d16c6e.js.map": "/movieholic/static/js/main.80d16c6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e1373c.css",
+    "static/js/main.80d16c6e.js"
+  ]
+}
